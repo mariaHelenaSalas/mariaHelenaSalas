@@ -4,10 +4,19 @@
 
 
 # Soy María Helena Salas! 👩‍💻
+Soy desarrolladora junior con formación en programación web y de software. Finalicé mis estudios en Campuslands, donde trabajé en proyectos reales que me ayudaron a desarrollar habilidades en frontend y backend.
 
-**estudiante de programación en Campuslands (sede Uniminuto)**, apasionada por la tecnología y el desarrollo de soluciones innovadoras. Me estoy formando y adquiriendo conocimiento en **Python, JavaScript, HTML, CSS, Git y MySQL**, lo que me permite trabajar tanto en el **frontend** como en el **backend**. Me considero una persona **proactiva**, orientada al logro y siempre en búsqueda de nuevos desafíos lo cual me permitan ampliar mi conocimiento.
+He aprendido y practicado tecnologías como Java, JavaScript, Python, HTML, CSS, Git, MySQL y PostgreSQL. Me gusta seguir aprendiendo y disfruto resolver problemas con soluciones simples y funcionales.
+
+Soy una persona comprometida, con ganas de crecer, trabajar en equipo y aportar siempre lo mejor de mí en cada proyecto.
 
 ---
+📝 ENGLISH VERSION (friendly and professional tone)
+I’m a junior developer with training in web and software development. I recently completed my studies at Campuslands, where I worked on real-world projects and learned to work on both the frontend and backend.
+
+I’ve gained experience using technologies like Java, JavaScript, Python, HTML, CSS, Git, MySQL, and PostgreSQL. I enjoy learning new things and finding simple, effective ways to solve problems.
+
+I'm a committed person, always looking to grow, work in teams, and give my best in every project.
 
 ## 🔍 ¿Qué hago?
 
